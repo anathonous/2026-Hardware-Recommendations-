@@ -21,6 +21,7 @@ https://www.ebay.ca/e/_electronics/refurbished-lenovo?mkcid=1&mkrid=706-53473-19
 ### $200
 Lenovo T430 https://ebay.us/iYj6FO<br>
 Lenovo T430 https://ebay.us/WP1ISC<br>
+Lenovo 430s https://ebay.us/T6tPBY<br>
 Lenovo T460s https://ebay.us/ka1BvL<br>
 ### $300
 Lenovo X1 Carbon 5th Gen https://ebay.us/okzbd3<br>
@@ -47,6 +48,7 @@ Lenovo X395 https://ebay.us/BUmgyB<br>
 
 ### $500
 ### $600
+Lenovo P50 https://ebay.us/abveIX<br>
 
 # Phones
 ## BlackBerry
