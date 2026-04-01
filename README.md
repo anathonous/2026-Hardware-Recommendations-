@@ -24,7 +24,7 @@ https://www.ebay.ca/e/_electronics/refurbished-lenovo?mkcid=1&mkrid=706-53473-19
 ### $600
 
 # Phones
-## BlacBerry
+## BlackBerry
 ## Android
 ## Linux
 
