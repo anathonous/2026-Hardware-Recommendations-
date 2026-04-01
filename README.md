@@ -26,6 +26,8 @@ Lenovo X1 Carbon 6th Gen https://ebay.us/Q86Si3
 Lenovo X1 Carbon 7th gen https://ebay.us/Rs1WbO
 Lenovo X390 https://ebay.us/B0GRKq
 Lenovo X1 Yoga https://ebay.us/hASbwI
+Lenovo X1 Yoga https://ebay.us/mesNfT
+Lenovo X1 Yoga https://ebay.us/wOXlq5
 ### $400
 Lenovo X1 Carbon 8th Gen https://ebay.us/PFgGFK
 ### $500
