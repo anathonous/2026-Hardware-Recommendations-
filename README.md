@@ -15,7 +15,7 @@ Aliexpress Referral for signup. ___<br>
 
 ## Thinkpads
 
-You don't need the latest and greatest. Most laptops will take Windows 11 or Linux just fine. You can even use MacOSX on some.<br>
+You don't need the latest and greatest. Take the time to look into the CPU specs (Core Counts) and RAM amounts. Most laptops will take Windows 11 or Linux just fine. You can even use MacOSX on some. <br>
 https://www.ebay.ca/e/_electronics/refurbished-lenovo?mkcid=1&mkrid=706-53473-19255-0&siteid=2&campid=5339147296&toolid=20014&customid=N&mkevt=1
 ### $100
  
