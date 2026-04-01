@@ -36,6 +36,7 @@ Lenovo T14 https://ebay.us/gtSIkq
 Lenovo T14 https://ebay.us/3cOkbf
 Lenovo T490 https://ebay.us/l5Srzv
 Lenovo T14 https://ebay.us/3cOkbf
+Lenovo T490 https://ebay.us/kkqfK6
 
 ### $500
 ### $600
