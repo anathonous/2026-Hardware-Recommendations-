@@ -100,7 +100,7 @@ https://s.click.aliexpress.com/e/_c35hOzYH IEM Replacement cable.
 ## USB-C
 https://s.click.aliexpress.com/e/_c4M6b1Od CX31993 A8
 # Bluetooth Audio SBC 
-Emulates USB audio device for unix bluetooth support
+Emulates USB audio device for unix bluetooth support<br>
 https://s.click.aliexpress.com/e/_c4FgRQfr UGREEN
 
 # Keyboards
