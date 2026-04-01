@@ -4,8 +4,8 @@
 
  - Use affiliate links
  - I get comission.
- - Cheese is good.
-
+ - Cheese is good.<br>
+ <br>
  - Get Aliexpress.
  - Link to Google Pay.
  - Get Consumer Protection thought Google without using Credit Card online.
@@ -15,18 +15,20 @@
 ## Thinkpads
 
 You don't need the latest and greatest. Most laptops will take Windows 11 or Linux just fine. You can even use MacOSX on some.
-### 100
-### 200
-### 300
-### 400
-### 500
-### 600
+### $100
+### $200
+### $300
+### $400
+### $500
+### $600
 
-## Phones
+# Phones
+## BlacBerry
+## Android
+## Linux
 
-### BlacBerry
-### Android
-### Linux
+# Headphones
 
-
-
+## TWS
+## IEM
+## Overear
