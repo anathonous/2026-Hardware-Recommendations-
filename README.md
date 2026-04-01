@@ -59,22 +59,39 @@ Lenovo P50 https://ebay.us/abveIX<br>
 
 # Phones
 ## BlackBerry
+### BB 9900
+### BB Q5
+### BB Q10
+### BB Z10
+### BB Z30
+### BB Q20
+### BB Q30
+
 ## Android
+### Pixel 6
+### Pixel 3
+
 ## Linux
 
 # Smart Watches
+## Pixel 1 Watch LTE/WIFI
 
 # Cases
-## 
+## Aliexpress
 
 # Headphones
 
 ## TWS
+### Creative
+
 ## IEM
 https://s.click.aliexpress.com/e/_c3NoRu45  Black tuning no mice. 
+
 ## Overear
+### Creative
 
 # Headphone Cables
+## IEM Cables
 
 # DAC (Headphone AMP)
 
