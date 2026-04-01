@@ -35,6 +35,7 @@ Lenovo X1 Carbon 8th Gen https://ebay.us/PFgGFK
 Lenovo T14 https://ebay.us/gtSIkq
 Lenovo T14 https://ebay.us/3cOkbf
 Lenovo T490 https://ebay.us/l5Srzv
+Lenovo T14 https://ebay.us/3cOkbf
 
 ### $500
 ### $600
