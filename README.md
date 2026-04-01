@@ -1,4 +1,4 @@
-<p align="center"><img src=cheeses,jpg width="300"></p><br>
+<p align="center"><img src=cheeses.jpg width="300"></p><br>
 
 # Hardware recommended for none retards.
 
