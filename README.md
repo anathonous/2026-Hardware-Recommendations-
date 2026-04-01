@@ -113,7 +113,8 @@ https://s.click.aliexpress.com/e/_c4FgRQfr UGREEN
 
 # Cables
 ## USB-C to USB-C
-
+https://s.click.aliexpress.com/e/_c3lek297 USB-A to USB-C Adapter 
+https://s.click.aliexpress.com/e/_c3lek297 USB-C to USB-C Cable
 # Drive Enclosures
 ## NVME 
 
