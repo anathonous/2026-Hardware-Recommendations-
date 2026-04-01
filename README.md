@@ -23,11 +23,13 @@ Lenovo T430 https://ebay.us/iYj6FO<br>
 Lenovo T430 https://ebay.us/WP1ISC<br>
 Lenovo 430s https://ebay.us/T6tPBY<br>
 Lenovo T460s https://ebay.us/ka1BvL<br>
+
 ### $300
 Lenovo X1 Carbon 5th Gen https://ebay.us/okzbd3<br>
 Lenovo X1 Carbon 6th Gen https://ebay.us/CxfLOd<br>
 Lenovo X1 Carbon 6th Gen https://ebay.us/tjJWNF<br>
 Lenovo X1 Carbon 6th Gen https://ebay.us/Q86Si3<br>
+Lenovo X1 Carbon 6th Gen https://ebay.us/JAHUba<br>
 Lenovo X1 Carbon 7th gen https://ebay.us/Rs1WbO<br>
 Lenovo X390 https://ebay.us/B0GRKq<br>
 Lenovo X1 Yoga https://ebay.us/hASbwI<br>
@@ -37,6 +39,10 @@ Lenovo X1 Yoga https://ebay.us/UOUY3g<br>
 
 ### $400
 Lenovo X1 Carbon 8th Gen https://ebay.us/PFgGFK<br>
+Lenovo X1 Carbon 9th Gen https://ebay.us/ye8Gbp<br>
+Lenovo X1 Carbon 9th Gen https://ebay.us/x0a2I5<br>
+Lenovo X1 Carbon 9th Gen https://ebay.us/GOHa2X<br>
+Lenovo X1 Carbon 9th Gen https://ebay.us/unBGwJ<br>
 Lenovo T14 https://ebay.us/gtSIkq<br>
 Lenovo T14 https://ebay.us/3cOkbf<br>
 Lenovo T14 https://ebay.us/3cOkbf<br>
