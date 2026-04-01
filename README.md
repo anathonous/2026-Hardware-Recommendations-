@@ -32,6 +32,7 @@ Lenovo X1 Yoga https://ebay.us/UOUY3g
 
 ### $400
 Lenovo X1 Carbon 8th Gen https://ebay.us/PFgGFK
+Lenovo T14 https://ebay.us/gtSIkq
 ### $500
 ### $600
 
