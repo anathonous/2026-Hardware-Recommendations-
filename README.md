@@ -84,11 +84,13 @@ https://ebay.us/91oR3x Pixel 6 128 Green
 https://ebay.us/SdrBvn Pixel 7 128 Black
 ### Pixel 8
 https://ebay.us/k2wgYu Pixel 8 128 Black
-
 ## Linux
+https://ebay.us/fmevxD Pixel 3a / Pixel 3a XL - Mobian/Droidian/postMarktetOS
 
 # Smart Watches
 ## Pixel 1 Watch LTE/WIFI
+https://ebay.us/MU72ba Pixel Watch 1 Wifi
+https://ebay.us/ZFogCB Pixel Watch 1 Wifi/Lte
 
 # Cases
 ## Aliexpress
