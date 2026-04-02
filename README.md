@@ -60,20 +60,20 @@ Lenovo X395 https://ebay.us/BUmgyB<br>
 ### $600
 Lenovo P50 https://ebay.us/abveIX<br>
 #### Linux / *BSD
-https://openbsd.org
-https://freebsd.org
-https://fedoraproject.org
-https://fedoraproject.org/atomic-desktops/silverblue/
-https://almalinux.org/
-https://rockylinux.org/
-https://www.debian.org
-https://www.deepin.org/index/en
-https://system76.com/pop/
-https://www.mageia.org
-https://zorin.com/os/
-https://manjaro.org/
-https://garudalinux.org/
-https://thorium.rocks/thoriumos
+https://openbsd.org<br>
+https://freebsd.org<br>
+https://fedoraproject.org<br>
+https://fedoraproject.org/atomic-desktops/silverblue/<br>
+https://almalinux.org/<br>
+https://rockylinux.org/<br>
+https://www.debian.org<br>
+https://www.deepin.org/index/en<br>
+https://system76.com/pop/<br>
+https://www.mageia.org<br>
+https://zorin.com/os/<br>
+https://manjaro.org/<br>
+https://garudalinux.org/<br>
+https://thorium.rocks/thoriumos<br>
 
 # Cell Phone Carrier
 Carriers in Canada are a scam for the most part. Public Mobile is the best. It's a virtual carrier on Telus. Works great and the plans are good too. Right now for $40 a month. You can get Unlimited calling/text in Canada/US and 150GB Data.<br>
