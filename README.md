@@ -129,10 +129,12 @@ https://amzn.to/4v7G4xR Creative BT-W6 <br>
 # Keyboards
 ## Wired
 ## Wireless
+https://amzn.to/3NVDBpG MX Master Keys Mini
 
 # Mice
 ## Wired
 ## Wireless
+https://amzn.to/4cgPq2Z MX Master S3
 
 # Cables
 ## USB-C to USB-C
@@ -148,8 +150,9 @@ https://s.click.aliexpress.com/e/_c2xyGBhL Casio Replica
 
 # Clothing
 ## T-Shirts
+https://s.click.aliexpress.com/e/_c4CRgvYH Ferrel TShirts
 ## Summerwear
-
+https://s.click.aliexpress.com/e/_c4E5NrOh Comfy Gym Shorts.
 # Earrings
 ## Tunnels
 https://s.click.aliexpress.com/e/_c4axxrRj
