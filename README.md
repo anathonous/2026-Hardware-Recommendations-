@@ -77,7 +77,7 @@ https://ebay.us/dE8hlw
 https://ebay.us/GMOyrU<br><br>
 
 Blackberry Devices can't do much. This is intentional. They can play mp3's and flac files and have a built in Radio. Connect to LTE and Wifi, and VPNs, Hotspot. Do Emails, Calls and Texts, You can download old Android APK files for Android 4.2 and sideload apps. Just keep it simple. You don't need to do all that shit on your phone. No maps, Browsing for the most part unless you sideload Opera Mini or Firefox. If you need a messanger type app use Telegram. Minimize Distraction. <br><br>
-When picking a Blackberry do a little research and find out which one works for your carrier. Frequencies are important when choosing a phone. This is around the time LTE first came out. 
+When picking a Blackberry do a little research and find out which one works for your carrier. Frequencies are important when choosing a phone. This is around the time LTE first came out. There are -1 -2 -3 -4 -5 variants. Each phone is different as well so you have to do a little research.
 
 
 ## Android
