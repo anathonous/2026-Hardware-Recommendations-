@@ -110,15 +110,14 @@ https://amzn.to/4bYTSSD Creative Zen Air Plus<br>
 https://amzn.to/3PCkpOi Creative Zen Air Pro
 
 ## IEM
-https://s.click.aliexpress.com/e/_c3NoRu45  Black tuning no mice. 
-
+https://s.click.aliexpress.com/e/_c3NoRu45 KZ ZS12 Pro X
+https://s.click.aliexpress.com/e/_c2ynfgup KZ EDX Pro X
 ## Overear
 https://amzn.to/4dUJiyz Creative Zen 2 Hybrid
 # Headphone Cables
 ## IEM Cables
 https://s.click.aliexpress.com/e/_c35hOzYH IEM Replacement cable.
 # DAC (Headphone AMP)
-
 ## USB-C
 https://s.click.aliexpress.com/e/_c4M6b1Od CX31993 A8
 
