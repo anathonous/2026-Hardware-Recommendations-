@@ -61,7 +61,7 @@ Lenovo P50 https://ebay.us/abveIX<br>
 # Cell Phone Carrier
 Carriers in Canada are a scam for the most part. Public Mobile is the best. It's a virtual carrier on Telus. Works great and the plans are good too. Right now for $40 a month. You can get Unlimited calling/text in Canada/US and 150GB Data.<br>
 https://publicmobile.ca/en/sk/plans?referral=KWTX4O Use referral link and get a 10 dollar credit for signing up.
-#Phones
+# Phones
 ## BlackBerry
 ### BB 9900
 https://s.click.aliexpress.com/e/_c3pNRXVP
