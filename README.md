@@ -74,7 +74,10 @@ https://ebay.us/rEZydJ
 ### BB Q20
 https://ebay.us/dE8hlw
 ### BB Q30
-https://ebay.us/GMOyrU
+https://ebay.us/GMOyrU<br><br>
+
+Blackberry Devices can't do much. This is intentional. They can play mp3's and flac files and have a built in Radio. Connect to LTE and Wifi, and VPNs, Hotspot. Do Emails, Calls and Texts, You can download old Android APK files for Android 4.2 and sideload apps. Just keep it simple. You don't need to do all that shit on your phone. No maps, Browsing for the most part unless you sideload Opera Mini or Firefox. If you need a messanger type app use Telegram. Minimize Distraction. <br><br>
+When picking a Blackberry do a little research and find out which one works for your carrier. Frequencies are important when choosing a phone. This is around the time LTE first came out. 
 
 
 ## Android
