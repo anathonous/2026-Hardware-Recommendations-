@@ -73,7 +73,8 @@ https://www.mageia.org<br>
 https://zorin.com/os/<br>
 https://manjaro.org/<br>
 https://garudalinux.org/<br>
-https://thorium.rocks/thoriumos<br>
+https://thorium.rocks/thoriumos<br><br><br>
+https://www.google.com/search?q=opencore+efi+for+thinkpads
 
 # Cell Phone Carrier
 Carriers in Canada are a scam for the most part. Public Mobile is the best. It's a virtual carrier on Telus. Works great and the plans are good too. Right now for $40 a month. You can get Unlimited calling/text in Canada/US and 150GB Data.<br>
