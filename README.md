@@ -84,6 +84,13 @@ https://ebay.us/GMOyrU<br><br>
 Blackberry Devices can't do much. This is intentional. They can play mp3's and flac files and have a built in Radio. Connect to LTE and Wifi, and VPNs, Hotspot. Do Emails, Calls and Texts, You can download old Android APK files for Android 4.2 and sideload apps. Just keep it simple. You don't need to do all that shit on your phone. No maps, Browsing for the most part unless you sideload Opera Mini or Firefox. If you need a messanger type app use Telegram. Minimize Distraction. <br><br>
 When picking a Blackberry do a little research and find out which one works for your carrier. Frequencies are important when choosing a phone. This is around the time LTE first came out. There are -1 -2 -3 -4 -5 variants. Each phone is different as well so you have to do a little research.
 
+## Linux
+https://ebay.us/fmevxD Pixel 3a / Pixel 3a XL - Mobian/Droidian/postMarktetOS<br>
+https://s.click.aliexpress.com/e/_c3p4egBn OnePLUS 6 Linux Mobian/Droidian/postMarktetOS<br>
+https://s.click.aliexpress.com/e/_c4WYIi3R OnePLUS 6T Linux Mobian/Droidian/postMarktetOS<br>
+https://s.click.aliexpress.com/e/_c3i29ZM9  Sony Xperia 10 V Sailfish OS <br>
+https://ebay.us/Su0dNg Sony Xperia 10 VI Sailfish OS<br>
+https://ebay.us/bXeOo1 Sony Xperia 10 VI Sailfish OS<br>
 
 ## Android
 ### Pixel 6
@@ -92,13 +99,7 @@ https://ebay.us/91oR3x Pixel 6 128 Green
 https://ebay.us/SdrBvn Pixel 7 128 Black
 ### Pixel 8
 https://ebay.us/k2wgYu Pixel 8 128 Black
-## Linux
-https://ebay.us/fmevxD Pixel 3a / Pixel 3a XL - Mobian/Droidian/postMarktetOS<br>
-https://s.click.aliexpress.com/e/_c3p4egBn OnePLUS 6 Linux Mobian/Droidian/postMarktetOS<br>
-https://s.click.aliexpress.com/e/_c4WYIi3R OnePLUS 6T Linux Mobian/Droidian/postMarktetOS<br>
-https://s.click.aliexpress.com/e/_c3i29ZM9  Sony Xperia 10 V Sailfish OS <br>
-https://ebay.us/Su0dNg Sony Xperia 10 VI Sailfish OS<br>
-https://ebay.us/bXeOo1 Sony Xperia 10 VI Sailfish OS<br>
+
 # Smart Watches
 ## Pixel 1 Watch LTE/WIFI
 https://ebay.us/MU72ba Pixel Watch 1 Wifi<br>
