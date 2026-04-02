@@ -103,13 +103,17 @@ https://s.click.aliexpress.com/e/_c4eCe3Y9 Best Pixel Cases
 
 ## TWS
 ### Creative
+https://amzn.to/4tszErM Creative Aurvana Ace 1<br>
+https://amzn.to/3PHi04U Creative Aurvana Ace 2<br>
+
+https://amzn.to/4bYTSSD Creative Zen Air Plus<br>
+https://amzn.to/3PCkpOi Creative Zen Air Pro
 
 ## IEM
 https://s.click.aliexpress.com/e/_c3NoRu45  Black tuning no mice. 
 
 ## Overear
-### Creative
-
+https://amzn.to/4dUJiyz Creative Zen 2 Hybrid
 # Headphone Cables
 ## IEM Cables
 https://s.click.aliexpress.com/e/_c35hOzYH IEM Replacement cable.
@@ -117,10 +121,12 @@ https://s.click.aliexpress.com/e/_c35hOzYH IEM Replacement cable.
 
 ## USB-C
 https://s.click.aliexpress.com/e/_c4M6b1Od CX31993 A8
+
 # Bluetooth Audio SBC 
 Emulates USB audio device for unix bluetooth support<br>
-https://s.click.aliexpress.com/e/_c4FgRQfr UGREEN
-
+https://s.click.aliexpress.com/e/_c4FgRQfr UGREEN<br>
+https://amzn.to/4bNbS3G Creative BT-W5<br>
+https://amzn.to/4v7G4xR Creative BT-W6 <br>
 # Keyboards
 ## Wired
 ## Wireless
